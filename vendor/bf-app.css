@@ -1,0 +1,3 @@
+html, body, .ember-application > .ember-view, .wrapper {
+  height: 100%;
+}
